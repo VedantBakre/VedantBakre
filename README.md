@@ -175,7 +175,7 @@ My Resume : <a href="https://drive.google.com/file/d/1Yc1od-LKNmgSPpPWsVaQVNDsLC
 ## 📈 GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantBakre&theme=tokyo-night&bg_color=00000000&hide_border=true&line=a855f7&point=ec4899" width="95%"/>
+  <img src="./activity-graph-output/activity-graph.svg" width="95%"/>
 </p>
 
 <p align="center">
