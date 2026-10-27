@@ -356,14 +356,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:ec4899&height=2"/>
 </p>
 
-<!-- SPOTIFY: Uncomment and replace YOUR_SPOTIFY_ID when ready -->
-<!-- ## 🎵 NOW PLAYING
+## 🎵 NOW PLAYING
+
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=a855f7" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hploc3d3k2epz3tkbjc3ewsbdu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hploc3d3k2epz3tkbjc3ewsbdu&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true" />
   </a>
 </p>
--->
 
 <p align="center">
   <img src="./assests/Lofi%20Vibe.gif" width="100%" />
