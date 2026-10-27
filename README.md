@@ -31,10 +31,10 @@
 │  > Building interfaces that are not just functional — but alive. │
 │                                                                  │
 │  $ cat skills.conf                                               │
-│  > 🌌 Cinematic UI       — Depth, motion, visual storytelling   │
-│  > 💀 Dark UI Systems    — Elegant high-contrast dark themes    │
-│  > ⚡ Performance & UX   — Fluid micro-interactions             │
-│  > 🎨 Visual Design      — Photoshop, After Effects, Figma     │
+│  > 🌌 Cinematic UI       — Depth, motion, visual storytelling    │
+│  > 💀 Dark UI Systems    — Elegant high-contrast dark themes     │
+│  > ⚡ Performance & UX   — Fluid micro-interactions              │
+│  > 🎨 Visual Design      — Photoshop, After Effects, Figma       │
 │                                                                  │
 │  $ cat status.log                                                │
 │  > 🔭 Building: Portfolio + QuickPoll Backend                    │
@@ -329,7 +329,7 @@
 
 ```bash
 ┌──────────────────────────────────────────────────────────────┐
-│  VEDANT_OS v3.0 — SYSTEM BOOT SEQUENCE                      │
+│  VEDANT_OS v3.0 — SYSTEM BOOT SEQUENCE                       │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
 │  > Loading personality.dll...              ✔ LOADED          │
@@ -343,11 +343,11 @@
 │  > Status: READY TO CREATE                 ██████████ 100%   │
 │                                                              │
 │  FUN_FACTS.log:                                              │
-│  • 🌙 Peak productivity: 11 PM - 3 AM                       │
+│  • 🌙 Peak productivity: 11 PM - 3 AM                        │
 │  • 🎬 Currently watching: anime marathons                    │
 │  • 💀 Dark UI > Light UI (non-negotiable)                    │
 │  • 🎧 Lofi beats = flow state activated                      │
-│  • ♟️ Chess enthusiast — find me on chess.com                 │
+│  • ♟️ Chess enthusiast — find me on chess.com                │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
