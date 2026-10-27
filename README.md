@@ -63,7 +63,7 @@
 ## 🏆 ACHIEVEMENT TROPHIES
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VedantBakre&theme=discord&no-bg=true&no-frame=true&column=7" />
+  <img src="https://trophy.ryglcloud.net/?username=VedantBakre&theme=radical&no-bg=true&no-frame=true&column=7&rank=SECRET,AAA,AA,A,B,C" />
 </p>
 
 <p align="center">
