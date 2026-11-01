@@ -1,12 +1,24 @@
 <p align="center">
-  <img src="./assests/banner.jpg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:9333ea,100:020617&height=140&section=header&text=Vedant%20Bakre&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VedantBakre&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/VedantBakre?label=FOLLOWERS&style=for-the-badge&color=a855f7" />
   <img src="https://img.shields.io/github/stars/VedantBakre?label=STARS&style=for-the-badge&color=a855f7" />
 </p>
+<p align="center">
+  <img src="./assests/Lofi%20Vibe.gif" width="100%" />
+</p>
+
+<h1 align="center">
+💀 VEDANT BAKRE
+</h1>
+
+<h3 align="center">
+Designer X Developer
+</h3>
+
+<p align="center"><i>"Aesthetics Matters to Me!"</i></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=a855f7&size=22&center=true&vCenter=true&width=850&speed=40&pause=1000&lines=Hey%21+I%27m+Vedant+Bakre+%F0%9F%91%8B;Welcome+to+My+GitHub+Page+%F0%9F%9A%80;Dark+UI+%3E+Everything+%F0%9F%92%80;Aesthetics+Matter+to+Me+%F0%9F%8E%A8;Crafting+Cinematic+UI%2FUX+%F0%9F%8E%AC" />
@@ -364,9 +376,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="./assests/Lofi%20Vibe.gif" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&center=true&vCenter=true&lines=Now+Playing:+LoFi+Beats;Coding+Mode:+Activated;Focus:+100%25" />
